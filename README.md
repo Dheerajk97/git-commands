@@ -9,3 +9,5 @@
 # now i have changed some files to the github if you can see this line in your local that means you undersatand the concepts of git pull or push.
 
 #if you can see this msg that means you still understand the git push or pull method.
+
+#now you have to go 1 step ahead for achieve your goal because you understood the git pull or push method successfully.
